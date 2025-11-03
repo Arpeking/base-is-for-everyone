@@ -8,5 +8,12 @@
     "name": "Base is for everyone",
     "description": "A simple hello world app deployed on Base",
     "url": "https://base-is-for-everyone-chi.vercel.app/"
+  },
+
+  "baseBuilder": {
+    "ownerAddress": "0x6Ecaf0E5fbA21Ee26A8Bb7a43dadd3563c246b49"
   }
+
+    
+
 }
