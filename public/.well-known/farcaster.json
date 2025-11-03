@@ -1,8 +1,8 @@
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOjkyNTQ5NCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweERhNDdjYmU0MTEwNjk4NTk5ODJENjRBNUY1YkQ4OUYzNjFmQ0UyOTIifQ",
-    "payload": "eyJkb21haW4iOiJiYXNlLWlzLWZvci1ldmVyeW9uZS5jaGkudmVyY2VsLmFwcCJ9",
-    "signature": "LZp5jComfgYmEv7FFaIM3g1gZDPAVJbQSwrE5iM6Jtt0jWiuUEfiX3uFGX8KwwCNmIiGQBBGJe+/5VhnPGnzVRw="
+    "header": "…",
+    "payload": "…",
+    "signature": "…"
   },
   "baseBuilder": {
     "ownerAddress": "0x6Ecaf0E5fbA21Ee26A8Bb7a43dadd3563c246b49"
@@ -11,15 +11,6 @@
     "version": "1",
     "name": "Base is for everyone",
     "homeUrl": "https://base-is-for-everyone-chi.vercel.app",
-    "iconUrl": "https://base-is-for-everyone-chi.vercel.app/icon.png",
-    "description": "A simple hello world app deployed on Base",
-    "primaryCategory": "developer-tools",
-    "tags": ["hello", "base", "miniapp"],
-    "subtitle": "Simple Hello World",
-    "tagline": "Hello Base 🟦🚀",
-    "screenshotUrls": ["https://base-is-for-everyone-chi.vercel.app/screenshot1.png"],
-    "webhookUrl": "",
-    "splashImageUrl": "https://base-is-for-everyone-chi.vercel.app/splash.png",
-    "splashBackgroundColor": "#1d4ed8"
+    "description": "A simple hello world app deployed on Base"
   }
 }
